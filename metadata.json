@@ -1,0 +1,6 @@
+{
+  "name": "AMOA Calculator",
+  "description": "Professional history calculator featuring scientific math, unit conversion, work shift time tracking, and 1-year history tape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
